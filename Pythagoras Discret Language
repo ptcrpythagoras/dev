@@ -1,0 +1,7 @@
+# Pythagoras Discret Language
+Discret is Pythagoras’s domain-specific language. It defines extra rulesets for assets during transaction validation. 
+Discret enables users to simply and predictably create custom assets and financial instruments, with terms enforced by the Pythagoras network.
+The Pythagoras Discret language is a domain-specific language used to add custom rules to an asset in Pythagoras.
+A transaction is said to be valid if all the conditions associated with it are met when it is submitted to the system. 
+Some of the conditions are intrinsic, for example, once an asset is spent, it cannot be spent again. Other conditions, such as custom asset transfer policies, are expressed in the Discret language.
+The design of the Discret language aims to strike a balance between customizability and predictability, making it easy for users to understand the contractual logic encoded in the Discret language before agreeing to it. 
